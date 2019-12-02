@@ -1,0 +1,9 @@
+.demo_btn {
+	margin: 50px;
+	padding: 10px 20px;
+	border: 1px solid #ccc;
+	outline: none;
+	cursor: pointer;
+	font-size: 14px;
+	border-radius: 10px;
+}
