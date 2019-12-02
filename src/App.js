@@ -5,5 +5,4 @@ const App = () => (
 		<Demo/>
 	);
 
-
 export default App;
